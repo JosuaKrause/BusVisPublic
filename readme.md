@@ -1,5 +1,7 @@
 ## BusVis
 
+***A repository including more example datasets can be found [here] (https://github.com/JosuaKrause/BusVis)***
+
 Visualization of transit systems.
 As argument to one of the main applications (located in the package infovis or it can be built with maven)
 an alternative resource path can be used.
